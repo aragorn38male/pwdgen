@@ -1,6 +1,6 @@
 # pwdgen
 Password Generator in RUST
-==========================
+++++++++++++++++++++++++++
 
 See it in action:
 
